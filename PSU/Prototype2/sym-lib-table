@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TIP31C")(type "KiCad")(uri "/home/gravity/Desktop/KiCAD/Libs/TIP31C/TIP31C.kicad_sym")(options "")(descr ""))
+)
